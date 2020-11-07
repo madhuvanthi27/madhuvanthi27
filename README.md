@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhuvanthi</h1>
 <h3 align="center">A creative problem solver !!</h3>
 
-- 📫 How to reach me **madhuvanthivenkat@gmail**
+- 📫 How to reach me **sit19cs004@sairamtap.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
