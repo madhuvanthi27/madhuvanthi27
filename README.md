@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhuvanthi</h1>
-<h3 align="center">A creative problem solver !!</h3>
+<h3 align="center">A creative problem solver.</h3>
 
 - 📫 How to reach me **madhuvanthivenkat@gmail**
 
